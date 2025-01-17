@@ -49,17 +49,37 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[byte5](https://byte5.de)**
 - **[OP.GG](https://op.gg)**
 
-## Contributing
+##How to run this project
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+##Clone Code
 
-## Code of Conduct
+```
+https://github.com/ChanthouVouen/jbh_backend.git
+```
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+##install composer
 
-## Security Vulnerabilities
+```
+composer i
+```
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+##install socailite
+
+```
+composer require/socailite
+```
+
+```
+php artisan key:generate
+```
+
+```
+php artisan migrate
+```
+
+```
+php artisan serve
+```
 
 ## License
 
