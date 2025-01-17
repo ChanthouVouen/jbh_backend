@@ -51,19 +51,19 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 
 ##How to run this project
 
-##Clone Code
+## Clone Code
 
 ```
 https://github.com/ChanthouVouen/jbh_backend.git
 ```
 
-##install composer
+## install composer
 
 ```
 composer i
 ```
 
-##install socailite
+## install socailite
 
 ```
 composer require/socailite
